@@ -151,18 +151,15 @@ $ burpsuite     # Web App Testing
 
 📧 **Email:** bibekjoshi221@gmail.com  
 
-<br>
 
 💼 <a href="https://www.linkedin.com/in/bibek-raj-joshi" target="_blank">LinkedIn</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 📸 <a href="https://www.instagram.com/bibekzoc17_____/" target="_blank">Instagram</a>
 
-<br><br>
-
-> 💼 **Open to Cybersecurity Internships and Opportunities**
+<br>
+💼 **Open to Cybersecurity Internships and Opportunities**
 
 <br>
-
 *"The quieter you become, the more you are able to hear."*
 
 </div>

@@ -17,7 +17,7 @@
 
 ### `whoami` → **BCA Student | Cybersecurity Enthusiast | Ethical Hacker in Training**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+in+Progress...;Breaking+Things+%E2%80%94+Ethically+%F0%9F%94%93;CTF+Player+%7C+TryHackMe+Learner;Open+to+Cybersecurity+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester;Bug+Hunter;Ethical+Hacker)](https://git.io/typing-svg)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bibekjoshi221-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bibekjoshi221)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibek_Raj_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-raj-joshi)

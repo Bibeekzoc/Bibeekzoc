@@ -7,15 +7,15 @@
 ██╔══██╗██║██╔══██╗██╔══╝  ██╔═██╗     ██╔══██╗██╔══██║██   ██║
 ██████╔╝██║██████╔╝███████╗██║  ██╗    ██║  ██║██║  ██║╚█████╔╝
 ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
-     ██╗ ██████╗ ███████╗██╗  ██╗██╗
-     ██║██╔═══██╗██╔════╝██║  ██║██║
-     ██║██║   ██║███████╗███████║██║
-██   ██║██║   ██║╚════██║██╔══██║██║
-╚█████╔╝╚██████╔╝███████║██║  ██║██║
- ╚════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
+                                                                      ██╗ ██████╗ ███████╗██╗  ██╗██╗
+                                                                      ██║██╔═══██╗██╔════╝██║  ██║██║
+                                                                      ██║██║   ██║███████╗███████║██║
+                                                                 ██   ██║██║   ██║╚════██║██╔══██║██║
+                                                                 ╚█████╔╝╚██████╔╝███████║██║  ██║██║
+                                                                  ╚════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
 ```
 
-### `whoami` → **BCA Student | Cybersecurity Enthusiast | Ethical Hacker in Training**
+### `whoami` → **BCA Student | Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Bug Hunter**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=BCA+Student+%40+Patan+Multiple+Campus;Aspiring+Penetration+Tester;Bug+Hunter;Ethical+Hacker;Cybersecurity+Researcher)](https://git.io/typing-svg)
 

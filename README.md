@@ -1,11 +1,11 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=BIBEK+RAJ+JOSHI)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=root%40kali%3A~%24+whoami;Bibek+Raj+Joshi)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Bibek+Raj+Joshi)](https://git.io/typing-svg)
+
 
 
 ### `whoami` → **BCA Student | Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Bug Hunter**

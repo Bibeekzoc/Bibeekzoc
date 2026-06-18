@@ -1,79 +1,171 @@
-
 <div align="center">
 
-![Cosmic Banner](https://user-images.githubusercontent.com/768052/234052635-24fa177a-3ef1-4dc6-a409-78e275b1ffdb.png)
+```
+██████╗ ██╗██████╗ ███████╗██╗  ██╗    ██████╗  █████╗      ██╗
+██╔══██╗██║██╔══██╗██╔════╝██║ ██╔╝    ██╔══██╗██╔══██╗     ██║
+██████╔╝██║██████╔╝█████╗  █████╔╝     ██████╔╝███████║     ██║
+██╔══██╗██║██╔══██╗██╔══╝  ██╔═██╗     ██╔══██╗██╔══██║██   ██║
+██████╔╝██║██████╔╝███████╗██║  ██╗    ██║  ██║██║  ██║╚█████╔╝
+╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
+     ██╗ ██████╗ ███████╗██╗  ██╗██╗
+     ██║██╔═══██╗██╔════╝██║  ██║██║
+     ██║██║   ██║███████╗███████║██║
+██   ██║██║   ██║╚════██║██╔══██║██║
+╚█████╔╝╚██████╔╝███████║██║  ██║██║
+ ╚════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
+```
 
-# Hi 👋, I'm Bibek Raj Joshi
+### `whoami` → **BCA Student | Cybersecurity Enthusiast | Ethical Hacker in Training**
 
-### 🔐 A Passionate Cybersecurity Enthusiast and Ethical Hacker in Training
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+in+Progress...;Breaking+Things+%E2%80%94+Ethically+%F0%9F%94%93;CTF+Player+%7C+TryHackMe+Learner;Open+to+Cybersecurity+Internships)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=Bibeekzoc&label=Profile%20views&color=blueviolet&style=flat-square)
-
-<img align="right" alt="Hacking" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bibekjoshi221-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bibekjoshi221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibek_Raj_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-raj-joshi)
+[![GitHub](https://img.shields.io/badge/GitHub-Bibeekzoc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibeekzoc)
+[![Email](https://img.shields.io/badge/Email-bibekjoshi221@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibekjoshi221@gmail.com)
 
 </div>
 
 ---
 
-### 🕵️ About Me
+## 🕵️ About Me
 
-- 🎓 Studying **Bachelor of Computer Applications (BCA)** at Patan Multiple Campus (2021–2026)
-- 🔭 Currently sharpening my skills on **TryHackMe**
-- 🌱 Learning **Penetration Testing**, **Web Application Security** & **Network Security**
-- 🛡️ Practicing in my own **Kali Linux home lab**
-- 💬 Ask me about **Nmap, Burp Suite, Metasploit, Wireshark, SQLMap**
-- 📧 Reach me at **bibekjoshi221@gmail.com**
-- 📱 **+977-9863450597**
-- ⚡ Fun fact: *I break things — ethically!*
+```python
+class BibekRajJoshi:
+    def __init__(self):
+        self.name       = "Bibek Raj Joshi"
+        self.role       = "BCA Student & Cybersecurity Enthusiast"
+        self.education  = "Patan Multiple Campus (2021–2026)"
+        self.location   = "Kathmandu, Nepal 🇳🇵"
+        self.focus      = ["Penetration Testing", "Web App Security", "Network Security"]
+        self.currently  = "Building my cybersecurity skills through TryHackMe labs"
+        self.goal       = "Land a cybersecurity internship & grow in ethical hacking"
+        self.languages  = ["Nepali (Native)", "English (Professional)"]
 
----
-
-### 📬 Contact Me
-
-- 📧 Email: bibekjoshi221@gmail.com
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/bibek-raj-joshi) *(Bibek Raj Joshi)*
-- 🎯 TryHackMe: [tryhackme.com/p/bibekjoshi221](https://tryhackme.com/p/bibekjoshi221)
-- 🐙 GitHub: [github.com/Bibeekzoc](https://github.com/Bibeekzoc)
+    def say_hi(self):
+        print("Hey! I break things — ethically 🔐")
+```
 
 ---
 
-### 🛠️ Security Tools & Tech Stack
+## ⚔️ Arsenal — Technical Skills
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="42" height="42"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="42" height="42"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="42" height="42"/></a>
-  <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="42" height="42"/></a>
-</p>
+<div align="center">
 
-**Security Tools:** Burp Suite &nbsp;|&nbsp; Nmap &nbsp;|&nbsp; Metasploit &nbsp;|&nbsp; Wireshark &nbsp;|&nbsp; SQLMap &nbsp;|&nbsp; Kali Linux
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-004080?style=flat-square&logo=cisco&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-Networking-004080?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-Resolution-004080?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-Web_Protocol-004080?style=flat-square)
 
-**Networking:** TCP/IP &nbsp;|&nbsp; OSI Model &nbsp;|&nbsp; DNS &nbsp;|&nbsp; HTTP/S
+### 🖥️ Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
+### 🛠️ Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-004170?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596BE?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analyzer-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-SQL_Injection-CC0000?style=flat-square)
 
-### 🚀 GitHub Stats
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibeekzoc&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bibeekzoc&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibeekzoc&layout=compact&theme=radical)
-
----
-
-### 📜 Certifications
-
-- 🟥 **TryHackMe** — Certificate of Completion
-  - Covered: Penetration Testing · Network Security · Web Application Attacks · Ethical Hacking
-  - Profile: [tryhackme.com/p/bibekjoshi221](https://tryhackme.com/p/bibekjoshi221)
+</div>
 
 ---
 
-### ☕ Support Me
+## 🧠 Core Competencies
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bibekjoshi)
+| 🔍 Skill | 🛠 Tool | 📌 Area |
+|---|---|---|
+| Network Scanning & Enumeration | `Nmap` | Recon |
+| Web App Vulnerability Assessment | `Burp Suite` | Web Security |
+| Exploitation & Post-Exploitation | `Metasploit` | Pentesting |
+| Traffic Analysis & Packet Inspection | `Wireshark` | Network Forensics |
+| SQL Injection & DB Enumeration | `SQLMap` | Web Security |
+| Shell Scripting & Task Automation | `Python`, `Bash` | Automation |
+| Core Networking & Security Principles | `TCP/IP`, `OSI` | Fundamentals |
+
+---
+
+## 🚀 Projects & Labs
+
+### 🔬 TryHackMe Practical Labs
+> Completed structured cybersecurity rooms covering **Linux fundamentals**, **network exploitation**, **OWASP Top 10**, and **privilege escalation** techniques.
+
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/bibekjoshi221.png)](https://tryhackme.com/p/bibekjoshi221)
+
+---
+
+### 🖥️ Personal Kali Linux Lab
+> Built a self-contained penetration testing environment to practice real-world attack and defense scenarios using **Nmap**, **Burp Suite**, and **Metasploit** in isolated, controlled settings.
+
+```bash
+# My lab stack
+$ uname -a      # Kali Linux
+$ nmap -sV      # Service Enumeration
+$ msfconsole    # Exploitation Framework
+$ burpsuite     # Web App Testing
+```
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Platform | Certificate | Status |
+|---|---|---|
+| 🟥 **TryHackMe** | Certificate of Completion | ✅ Completed |
+
+</div>
+
+> Covered: Penetration Testing · Network Security · Web Application Attacks · Ethical Hacking
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibeekzoc&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibeekzoc&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bibeekzoc&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+## 🎯 Currently Focusing On
+
+- 🔐 Advancing through **TryHackMe** learning paths (Jr Penetration Tester)
+- 🐞 Learning **Bug Bounty** fundamentals
+- 🧪 Practicing **CTF** challenges
+- 📖 Deepening knowledge of **web application security**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+📧 **bibekjoshi221@gmail.com** &nbsp;|&nbsp; 📱 **+977-9863450597**
+
+> 💼 **Open to Cybersecurity Internships and Opportunities**
+
+*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Bibeekzoc&label=Profile+views&color=00FF41&style=flat-square" alt="Profile Views" />
+</div>

@@ -147,22 +147,19 @@ $ burpsuite     # Web App Testing
 ---
 
 ## 🤝 Let's Connect
+
 <div align="center">
 
-📧 **Email:** bibekjoshi221@gmail.com  
-
-
+📧 **bibekjoshi221@gmail.com** &nbsp;
 💼 <a href="https://www.linkedin.com/in/bibek-raj-joshi" target="_blank">LinkedIn</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 📸 <a href="https://www.instagram.com/bibekzoc17_____/" target="_blank">Instagram</a>
 
-<br>
-💼 **Open to Cybersecurity Internships and Opportunities**
+> 💼 **Open to Cybersecurity Internships and Opportunities**
 
-<br>
-*"The quieter you become, the more you are able to hear."*
+*"The quieter you become, the more you are able to hear."* — playboi pappu
 
-</div>
+</div> 
 
 ---
 

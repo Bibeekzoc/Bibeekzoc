@@ -150,11 +150,11 @@ $ burpsuite     # Web App Testing
 
 <div align="center">
 
-📧 **bibekjoshi221@gmail.com** &nbsp;|&nbsp; 📱 **+977-9863450597**
+📧 **bibekjoshi221@gmail.com** &nbsp;
 
 > 💼 **Open to Cybersecurity Internships and Opportunities**
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+*"The quieter you become, the more you are able to hear."* — playboi pappu
 
 </div>
 

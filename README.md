@@ -151,6 +151,7 @@ $ burpsuite     # Web App Testing
 <div align="center">
 
 📧 **bibekjoshi221@gmail.com** &nbsp;
+<div align="center">
 <p align="left">
   <a href="https://www.linkedin.com/in/bibek-raj-joshi" target="_blank">
     💼 LinkedIn
@@ -160,7 +161,7 @@ $ burpsuite     # Web App Testing
     📸 Instagram
   </a>
 </p>
-
+</div>
 
 > 💼 **Open to Cybersecurity Internships and Opportunities**
 

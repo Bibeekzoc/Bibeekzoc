@@ -121,11 +121,12 @@ $ burpsuite     # Web App Testing
 
 | Platform | Certificate | Status |
 |---|---|---|
-| 🟥 **TryHackMe** | Certificate of Completion | ✅ Completed |
+| 🟥 x| x  | x|
 
 </div>
 
-> Covered: Penetration Testing · Network Security · Web Application Attacks · Ethical Hacking
+   Not obtained yet.
+<!-- > Covered: Penetration Testing · Network Security · Web Application Attacks · Ethical Hacking -->
 
 ---
 
